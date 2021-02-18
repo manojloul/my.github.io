@@ -1,0 +1,66 @@
+body h2{
+    text-align: center;
+    background-color:cyan;
+}
+.navbar
+{
+display: flex;
+
+}
+.navul
+{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    width: 60%;
+    font-size: medium;
+
+}
+.navul li{
+ padding: 10 20;
+}
+
+.manu
+{
+  border-radius: 50%;
+  border-style: solid;
+  border-color: cadetblue;
+
+}
+.manunav
+{
+    display: flex;
+
+}
+.manit
+{
+    font-size: larger;
+}
+.ullist
+{  
+    text-decoration: none;
+    list-style:none;
+    text-decoration-style: none;
+    font-size: larger;
+}
+.hobbies
+{
+    font-size: larger;
+}
+
+.contact
+{
+ text-decoration: none;
+ list-style: none;
+ font-size: larger;
+
+}
+.footer
+{
+    background-color: darkslategray;
+    color: firebrick;
+}
+.manit a {
+    text-decoration: none;
+}
