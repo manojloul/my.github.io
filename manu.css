@@ -2,6 +2,13 @@ body h2{
     text-align: center;
     background-color:cyan;
 }
+.head_div a
+{
+    text-decoration:none;
+    text-align: center;
+    width 100%;
+    margin-left:10%;
+}
 .navbar
 {
 display: flex;
