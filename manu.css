@@ -2,11 +2,7 @@ body h2{
     text-align: center;
     background-color:cyan;
 }
-.navbar
-{
-display: flex;
 
-}
 .navul
 {
     list-style: none;
