@@ -6,9 +6,8 @@ body h2{
 {
     text-align: center;  
 }
-.head_div a{
-text-decoration: none;
-padding-left:10px;
+.head a {
+    text-decoration: none;
 }
 .navbar
 {
