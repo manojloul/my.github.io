@@ -4,9 +4,10 @@ body h2{
 }
 .head
 {
-    text-decoration:none;
-    text-align: center;
-   
+    text-align: center;  
+}
+.head_div a{
+text-decoration: none;
 }
 .navbar
 {
