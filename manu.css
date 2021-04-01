@@ -5,10 +5,10 @@ body h2{
 .head
 {
     text-align: center;  
-    background-color:black;
 }
 .head a {
     text-decoration: none;
+    text-color:yellow;
 }
 .navbar
 {
